@@ -6,8 +6,19 @@ I am a passionate data analyst and BI developer with experience in sales, market
 
 Skills: POWER BI / EXCEL / SQL / PYTHON / TABLEAU / MACHINE LEARNING 
 
-- 🔭 I’m currently working as Freelancer on data analyst project. 
+- 🔭 I’m currently working on data analytics and BI projects as freelancer 
+- 🌱 I’m currently learning Machine learning 
+- 👯 I’m looking to collaborate on data analytics and BI projects 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/bovebove)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bienvenue-awagoum//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bienvenueawagoum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/BAwagoum)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/bovebove)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/bovebove&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/bovebove)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/bovebove)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/bovebove)  
