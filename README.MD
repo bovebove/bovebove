@@ -19,6 +19,4 @@ Skills: POWER BI / EXCEL / SQL / PYTHON / TABLEAU / MACHINE LEARNING
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/bovebove)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/bovebove)  
-
 ![Profile views](https://gpvc.arturio.dev/https://github.com/bovebove)  
