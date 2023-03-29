@@ -1,2 +1,4 @@
 # Bienvenue Awagoum the Data analyst
 I am a passionate data analyst with experience in sales, marketing, human resources, education and many other fields. I hold a Master 2 in Information Systems and Software Engineering and several certifications. My Github profile is filled with amazing projects that I have completed using Excel 📊, Power BI 📈, SQL 💻, Python 🧑‍💻 and Tableau 🚀. My profile contains reports 📑 and interactive dashboards 📊 to help businesses make informed decisions. You will also find Python 🐍 and SQL 💾 scripts, Excel 📑 and PBIx 📊 files and much more! If you are looking for a competent and experienced data analyst to help you make informed decisions, you have come to the right place!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bovebove)](https://github.com/anuraghazra/github-readme-stats)
